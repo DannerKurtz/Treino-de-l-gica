@@ -1,6 +1,6 @@
 Nível Iniciante:
 
-01. Escreva um programa que imprima "Olá, mundo!".
+01. Escreva um programa que imprima "Olá, mundo!". java, python, C#
 02. Escreva um programa que solicite ao usuário seu nome e o cumprimente.
 03. Escreva um programa que solicite dois números e imprima sua soma.
 04. Escreva um programa que solicite a temperatura em Celsius e a converta para Fahrenheit.
