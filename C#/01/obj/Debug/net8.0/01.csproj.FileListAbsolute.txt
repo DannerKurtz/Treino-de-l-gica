@@ -1,0 +1,14 @@
+D:\Material de estudos\Treino de Logica\C#\01\bin\Debug\net8.0\01.exe
+D:\Material de estudos\Treino de Logica\C#\01\bin\Debug\net8.0\01.deps.json
+D:\Material de estudos\Treino de Logica\C#\01\bin\Debug\net8.0\01.runtimeconfig.json
+D:\Material de estudos\Treino de Logica\C#\01\bin\Debug\net8.0\01.dll
+D:\Material de estudos\Treino de Logica\C#\01\bin\Debug\net8.0\01.pdb
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.AssemblyInfo.cs
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.dll
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\refint\01.dll
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.pdb
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\01.genruntimeconfig.cache
+D:\Material de estudos\Treino de Logica\C#\01\obj\Debug\net8.0\ref\01.dll

@@ -1,0 +1,91 @@
+Nível Iniciante:
+
+01. Escreva um programa que imprima "Olá, mundo!".
+02. Escreva um programa que solicite ao usuário seu nome e o cumprimente.
+03. Escreva um programa que solicite dois números e imprima sua soma.
+04. Escreva um programa que solicite a temperatura em Celsius e a converta para Fahrenheit.
+05. Escreva um programa que solicite um número e imprima se é par ou ímpar.
+06. Escreva um programa que solicite um número e imprima se é positivo, negativo ou zero.
+07. Escreva um programa que solicite um número e imprima sua tabuada de multiplicação.
+08. Escreva um programa que solicite o raio de um círculo e calcule sua área.
+09. Escreva um programa que solicite o comprimento e a largura de um retângulo e calcule sua área.
+10. Escreva um programa que solicite três números e imprima o maior deles.
+11. Escreva um programa que solicite dois números e imprima o resultado da subtração do primeiro pelo segundo.
+12. Escreva um programa que solicite um número e verifique se é múltiplo de 3 e de 5 ao mesmo tempo.
+13. Escreva um programa que solicite a idade de uma pessoa e imprima se ela é maior de idade ou menor de idade.
+14. Escreva um programa que solicite um número e imprima sua tabuada de adição.
+15. Escreva um programa que solicite dois números e imprima o resultado da multiplicação entre eles.
+16. Escreva um programa que solicite a altura e o peso de uma pessoa e calcule seu índice de massa corporal (IMC).
+17. Escreva um programa que solicite um número e imprima sua raiz quadrada.
+18. Escreva um programa que solicite um número e verifique se é um quadrado perfeito.
+19. Escreva um programa que solicite um número e verifique se é um número triangular.
+20. Escreva um programa que solicite um número e imprima sua representação em binário.
+21. Escreva um programa que solicite uma lista de números e calcule o desvio padrão.
+22. Escreva um programa que solicite um número e verifique se é um número de Armstrong.
+23. Escreva um programa que solicite uma lista de palavras e imprima a palavra mais longa.
+24. Escreva um programa que solicite um número e calcule sua sequência de Collatz.
+25. Escreva um programa que solicite uma lista de números e calcule a moda.
+
+Nível Intermediário:
+
+26. Escreva um programa que solicite uma lista de números e calcule a média ponderada.
+27. Escreva um programa que solicite um número e verifique se é um número primo.
+28. Escreva um programa que solicite uma lista de números e calcule a média geométrica.
+29. Escreva um programa que solicite uma lista de palavras e imprima as palavras em ordem reversa.
+30. Escreva um programa que solicite uma lista de números e calcule o produto de seus dígitos.
+31. Escreva um programa que solicite uma lista de números e calcule o coeficiente de variação.
+32. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que começam com uma determinada letra.
+33. Escreva um programa que solicite um número e verifique se é um número feliz.
+34. Escreva um programa que solicite uma lista de números e calcule a amplitude interquartil.
+35. Escreva um programa que solicite uma lista de números e calcule a soma dos quadrados dos elementos.
+36. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm um número par de letras.
+37. Escreva um programa que solicite uma lista de números e calcule o produto dos termos adjacentes.
+38. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm todas as vogais.
+39. Escreva um programa que solicite uma lista de números e calcule a soma dos cubos dos elementos.
+40. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm todas as consoantes.
+41. Escreva um programa que solicite uma lista de números e calcule o número de permutações possíveis.
+42. Escreva um programa que solicite uma lista de palavras e verifique se todas são anagramas umas das outras.
+43. Escreva um programa que solicite uma lista de números e calcule o polinômio interpolador.
+44. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que são palíndromos.
+45. Escreva um programa que solicite uma lista de números e calcule o determinante de uma matriz quadrada.
+46. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que são anagramas de uma palavra dada.
+47. Escreva um programa que solicite uma lista de números e calcule o número de permutações com repetição.
+48. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que são antônimos de uma palavra dada.
+49. Escreva um programa que solicite uma lista de números e calcule a série de Taylor para uma função exponencial.
+50. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm um número ímpar de letras.
+
+Nível Avançado:
+
+51. Escreva um programa que solicite uma lista de números e calcule o número de derivações possíveis.
+52. Escreva um programa que solicite uma lista de palavras e verifique se todas elas têm o mesmo comprimento.
+53. Escreva um programa que solicite uma lista de números e calcule o número de combinações possíveis.
+54. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm um número de vogais maior que o número de consoantes.
+55. Escreva um programa que solicite uma lista de números e calcule a série de Maclaurin para uma função trigonométrica.
+56. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm um número par de vogais.
+57. Escreva um programa que solicite uma lista de números e calcule a série de Taylor para uma função logarítmica.
+58. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm um número ímpar de consoantes.
+59. Escreva um programa que solicite uma lista de números e calcule a série de Fourier para uma função periódica.
+60. Escreva um programa que solicite uma lista de palavras e imprima apenas as palavras que têm uma sequência de vogais seguida por uma sequência de consoantes.
+
+Nível Desafiador:
+
+61. Escreva um programa que resolva o problema da mochila usando algoritmos genéticos.
+62. Escreva um programa que resolva o problema das oito rainhas usando busca tabu.
+63. Escreva um programa que resolva o problema do caixeiro viajante usando programação dinâmica.
+64. Escreva um programa que implemente o algoritmo de reconhecimento de padrões k-nearest neighbors.
+65. Escreva um programa que resolva o problema do corte de estoque usando busca em feixe.
+66. Escreva um programa que resolva o problema da soma máxima de subvetores usando programação dinâmica.
+67. Escreva um programa que implemente o algoritmo de minimax com poda alfa-beta.
+68. Escreva um programa que resolva o problema do alinhamento de sequências de DNA usando algoritmos genéticos.
+69. Escreva um programa que resolva o problema da coloração de grafos usando busca em profundidade.
+70. Escreva um programa que resolva o problema da partição usando algoritmos de força bruta.
+71. Escreva um programa que resolva o problema da soma dos subconjuntos usando programação dinâmica.
+72. Escreva um programa que implemente o algoritmo de monte carlo para estimar o valor de pi.
+73. Escreva um programa que resolva o problema da multiplicação de matrizes usando algoritmos de Strassen.
+74. Escreva um programa que resolva o problema do menor caminho em um grafo usando o algoritmo de Bellman-Ford.
+75. Escreva um programa que implemente o algoritmo de busca de padrões A*.
+76. Escreva um programa que resolva o problema da seleção de atividades usando programação dinâmica.
+77. Escreva um programa que resolva o problema do empacotamento de contêineres usando algoritmos genéticos.
+78. Escreva um programa que resolva o problema da torre de Hanoi usando recursão.
+79. Escreva um programa que resolva o problema do fluxo máximo em um grafo usando o algoritmo de Ford-Fulkerson.
+80. Escreva um programa que implemente o algoritmo de detecção de comunidades de Louvain.
